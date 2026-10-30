@@ -4,6 +4,8 @@
 
 \# 🌟 Catch the Falling Stars
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ayushmore2121.Catch_the_stars)
+
 
 
 A feature-rich, arcade-style 2D browser game built with \*\*HTML5 Canvas\*\*, \*\*CSS3\*\*, and pure \*\*JavaScript\*\*, featuring neon visuals, particle effects, web audio synthesizer sound effects, power-ups, and combo tracking!
